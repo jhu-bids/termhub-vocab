@@ -1,0 +1,9 @@
+{
+  "concept_class": "ri.foundry.main.dataset.10aec442-ee40-43e0-9012-57c002c1195b",
+  "concept_relationship": "ri.foundry.main.dataset.0469a283-692e-4654-bb2e-26922aff9d71",
+  "concept_synonym": "ri.foundry.main.dataset.37b74b8c-f136-4b41-b022-2d61a10fc5db",
+  "domain": "ri.foundry.main.dataset.e1f7eefb-4730-43cf-9bad-42b0c3803740",
+  "drug_strength": "ri.foundry.main.dataset.3160ed3e-13ff-4b10-9b77-5444b90bfd36",
+  "relationship": "ri.foundry.main.dataset.478c12f2-2410-4880-859e-c2267bc28779",
+  "vocabulary": "ri.foundry.main.dataset.0e1acd60-6eeb-49e1-9189-1b8a6221ac29"
+}
