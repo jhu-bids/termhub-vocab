@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Project specific
+# n3c.db: Taking up more space than Joe's computer can handle. This may be a temporary or a permanent ignore.
+n3c.db
